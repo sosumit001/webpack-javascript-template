@@ -18,7 +18,7 @@ module.exports = {
     },
     plugins:[
         new HtmlWebpackPlugin({
-            title: '__ lesson.ml __',
+            title: '__ webpack-template __',
             filename: 'index.html',
             template: 'src/template.html'
         })
