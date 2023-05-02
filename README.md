@@ -7,7 +7,7 @@ A simple and easy-to-use template for starting a new JavaScript project with Web
 1. Clone this repository:
 
 ```
-git clone https://github.com/sosumit/webpack-javascript-template.git
+git clone https://github.com/sosumit001/webpack-javascript-template.git
 ```
 
 2. Install dependencies:
